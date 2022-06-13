@@ -1,7 +1,24 @@
 # Hi there, I'm Tima! 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timanlemvo&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timanlemvo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Aspiring Full Stack Developer 
+- A passionate Front End Developer and Email Marketing Specialist
+- 🌱 I’m currently learning **Python**
+
+
+<p align="left"> <a href="https://twitter.com/tee_ma3" target="blank"><img src="https://img.shields.io/twitter/follow/tee_ma3?logo=twitter&style=for-the-badge" alt="tee_ma3" /></a> </p>
+
+## Connect with me
+<p align="left">
+<a href="https://dev.to/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="timanlemvo" height="30" width="40" /></a>
+<a href="https://twitter.com/tee_ma3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tee_ma3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timanlemvo" height="30" width="40" /></a>
+<a href="https://instagram.com/timathedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timathedev" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/timanlemvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="timanlemvo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="timanlemvo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="timanlemvo" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="timanlemvo" height="30" width="40" /></a>
+</p>
+
 
 ## Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,3 +45,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+<p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=timanlemvo&show_icons=true&locale=en&layout=compact" alt="timanlemvo" /></p>
+<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=timanlemvo&show_icons=true&locale=en" alt="timanlemvo" /></p>
+

@@ -1,52 +1,124 @@
-# Hi there, I'm Tima! 
+# 👋 Hi, I’m Tima Nlemvo
 
-Aspiring Full Stack Developer 
-- A passionate Front End Developer and Email Marketing Specialist
-- 🌱 I’m currently learning **Python**
+**Senior IT / Systems Engineer → Cloud • Security • Platform Engineering**
 
+I’m an IT professional with **7+ years of enterprise experience** supporting and building secure, scalable systems across Windows, macOS, Linux, networking, identity, and infrastructure.  
+I’m currently transitioning deeper into **Cloud Security, Platform / DevOps, and Systems Engineering** by designing and operating production-grade infrastructure in my homelab and documenting real incidents, tradeoffs, and lessons learned.
 
-<p align="left"> <a href="https://twitter.com/tee_ma3" target="blank"><img src="https://img.shields.io/twitter/follow/tee_ma3?logo=twitter&style=for-the-badge" alt="tee_ma3" /></a> </p>
+This GitHub is not a tutorial playground — it’s a **living portfolio of real systems, failures, and fixes**.
 
-## Connect with me
-<p align="left">
-<a href="https://dev.to/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="timanlemvo" height="30" width="40" /></a>
-<a href="https://twitter.com/tee_ma3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tee_ma3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timanlemvo" height="30" width="40" /></a>
-<a href="https://instagram.com/timathedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timathedev" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/timanlemvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="timanlemvo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="timanlemvo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="timanlemvo" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/timanlemvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="timanlemvo" height="30" width="40" /></a>
-</p>
+---
 
+## 🧠 What I Actually Do
 
-## Tech Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- 🖥️ **Operate a 3-node Proxmox cluster** running 25+ services with high-availability concepts  
+- 🔐 **Design zero-trust access** using SSO, MFA, network segmentation, and VPN overlays  
+- 📊 **Build full observability pipelines** (metrics, logs, alerting) for incident response  
+- 🚨 **Investigate real outages** (kernel, VFIO, PCIe, networking) and write postmortems  
+- ⚙️ **Automate workflows** for monitoring, alerting, and security responses  
+- 🧪 **Run GPU-accelerated AI workloads** locally using passthrough and RAG pipelines  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
 
+## 🏗️ Current Focus Areas
 
-## CSS
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+- Cloud & Infrastructure Engineering  
+- Cloud Security & Identity (IAM, Zero Trust)  
+- Platform / DevOps Foundations  
+- Networking (VLANs, routing, segmentation)  
+- Linux systems & incident forensics  
 
-## Tools
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+---
 
+## 🧩 Highlighted Work
 
-<p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=timanlemvo&show_icons=true&locale=en&layout=compact" alt="timanlemvo" /></p>
-<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=timanlemvo&show_icons=true&locale=en" alt="timanlemvo" /></p>
+### 🔒 Security & Monitoring
+- Wazuh SIEM / XDR deployment
+- DNS filtering with AdGuard
+- Event-driven alerting via automation workflows
+- Centralized logging and metrics
 
+### 📈 Observability
+- Telegraf → InfluxDB → Grafana stack
+- 10-second resolution metrics across all nodes
+- Dashboards used for real incident investigations
+
+### 🧑‍🚀 Incident Forensics
+- Diagnosed a **silent Proxmox hard lockup** with *zero local logs*
+- Used **external telemetry only** to identify a PCIe / GPU VFIO root cause
+- Applied kernel-level mitigations and documented the full investigation
+
+### 🧠 AI / ML Infrastructure
+- GPU passthrough (VFIO / IOMMU)
+- Local LLM inference and RAG pipelines
+- Securely isolated AI workloads inside a broader platform
+
+---
+
+## 🛠️ Tech Stack
+
+### Operating Systems & Platforms
+- Linux (Debian, Ubuntu, Proxmox VE)
+- Windows, macOS
+- Virtualization & Containers
+
+### Infrastructure & Networking
+- Proxmox VE (clusters, VMs, LXCs)
+- VLANs, routing, firewalling
+- UniFi networking
+- VPN / zero-trust access
+
+### Security & Identity
+- Wazuh SIEM / XDR
+- Authentik (SSO, MFA, OIDC/SAML)
+- Vaultwarden
+- AdGuard DNS
+
+### Observability & Automation
+- Telegraf, InfluxDB, Grafana
+- Uptime monitoring
+- Workflow automation (n8n-style pipelines)
+
+### Development & Tooling
+- Git, GitHub, GitLab
+- Docker & Compose
+- Bash / scripting
+- Python (actively deepening)
+
+---
+
+## 📚 Background
+
+- **Information Technology Specialist** — Team Liquid  
+- **Senior IT Engineer** — Stagwell  
+- **Help Desk & Asset Lead** — Creative Artists Agency  
+- **Service Desk Lead** — Turner Tech  
+- **Field Service Technician** — RealPro Consulting  
+
+**Education**
+- Full Stack Web Development — UCLA Extension  
+- Information Technology — ITT Technical Institute  
+
+---
+
+## 🎯 Where This Is Going
+
+I’m intentionally moving from **“supporting systems” → “designing and owning platforms.”**  
+This GitHub documents that transition with real evidence: architecture, configs, failures, fixes, and tradeoffs.
+
+If you’re reviewing this for a **Cloud Engineer, Security Engineer, Platform, DevOps, or Systems role**, you’re looking at how I actually think and work — not just what I claim on a résumé.
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 Website: https://tima.dev  
+- 💼 LinkedIn: https://linkedin.com/in/timanlemvo  
+- 🐦 Twitter/X: https://twitter.com/tee_ma3  
+- ✍🏽 Dev.to: https://dev.to/timanlemvo  
+- 📧 Email: timanlemvo@gmail.com  
+
+---
+
+> _“Documentation is a form of operational empathy.”_  
+> I build systems that can be understood, monitored, and recovered — even when things break.

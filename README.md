@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Tima Nlemvo
 
-**Senior IT / Systems Engineer → Cloud • Security • Platform Engineering**
+**IT / Systems Engineer → Cloud • Security • Platform Engineering**
 
 I’m an IT professional with **7+ years of enterprise experience** supporting and building secure, scalable systems across Windows, macOS, Linux, networking, identity, and infrastructure.  
 I’m currently transitioning deeper into **Cloud Security, Platform / DevOps, and Systems Engineering** by designing and operating production-grade infrastructure in my homelab and documenting real incidents, tradeoffs, and lessons learned.
 
-This GitHub is not a tutorial playground — it’s a **living portfolio of real systems, failures, and fixes**.
+This GitHub is not a tutorial playground! It’s a **living portfolio of real systems, failures, and fixes**.
 
 ---
 
@@ -82,7 +82,7 @@ This GitHub is not a tutorial playground — it’s a **living portfolio of real
 ### Development & Tooling
 - Git, GitHub, GitLab
 - Docker & Compose
-- Bash / scripting
+- Bash/scripting
 - Python (actively deepening)
 
 ---
@@ -104,7 +104,7 @@ This GitHub is not a tutorial playground — it’s a **living portfolio of real
 ## 🎯 Where This Is Going
 
 I’m intentionally moving from **“supporting systems” → “designing and owning platforms.”**  
-This GitHub documents that transition with real evidence: architecture, configs, failures, fixes, and tradeoffs.
+This GitHub document provides real evidence of that transition: architecture, configs, failures, fixes, and trade-offs.
 
 If you’re reviewing this for a **Cloud Engineer, Security Engineer, Platform, DevOps, or Systems role**, you’re looking at how I actually think and work — not just what I claim on a résumé.
 

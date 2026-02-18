@@ -1,124 +1,75 @@
-# 👋 Hi, I’m Tima Nlemvo
+# Tima Nlemvo
 
-**IT / Systems Engineer → Cloud • Security • Platform Engineering**
-
-I’m an IT professional with **7+ years of enterprise experience** supporting and building secure, scalable systems across Windows, macOS, Linux, networking, identity, and infrastructure.  
-I’m currently transitioning deeper into **Cloud Security, Platform / DevOps, and Systems Engineering** by designing and operating production-grade infrastructure in my homelab and documenting real incidents, tradeoffs, and lessons learned.
-
-This GitHub is not a tutorial playground! It’s a **living portfolio of real systems, failures, and fixes**.
+IT Engineer by day, homelab operator by night.
+I build, break, and document infrastructure — then write about it.
+Based in Los Angeles, CA.
 
 ---
 
-## 🧠 What I Actually Do
+## The Alliance Fleet
 
-- 🖥️ **Operate a 3-node Proxmox cluster** running 25+ services with high-availability concepts  
-- 🔐 **Design zero-trust access** using SSO, MFA, network segmentation, and VPN overlays  
-- 📊 **Build full observability pipelines** (metrics, logs, alerting) for incident response  
-- 🚨 **Investigate real outages** (kernel, VFIO, PCIe, networking) and write postmortems  
-- ⚙️ **Automate workflows** for monitoring, alerting, and security responses  
-- 🧪 **Run GPU-accelerated AI workloads** locally using passthrough and RAG pipelines  
+My homelab. 3 nodes, 25+ services, production-grade everything.
+Not a tutorial setup — this is where I actually learn.
 
----
-
-## 🏗️ Current Focus Areas
-
-- Cloud & Infrastructure Engineering  
-- Cloud Security & Identity (IAM, Zero Trust)  
-- Platform / DevOps Foundations  
-- Networking (VLANs, routing, segmentation)  
-- Linux systems & incident forensics  
+| Node | Alias | Role |
+|------|-------|------|
+| Node-A | Millennium Falcon | AI/ML compute, GPU passthrough, LLM inference |
+| Node-B | CR90 Corvette | Data operations, identity, observability |
+| Node-C | Gozanti Cruiser | Network security, DNS filtering, SIEM |
 
 ---
 
-## 🧩 Highlighted Work
+## Projects
 
-### 🔒 Security & Monitoring
-- Wazuh SIEM / XDR deployment
-- DNS filtering with AdGuard
-- Event-driven alerting via automation workflows
-- Centralized logging and metrics
+**SIEM Automation Pipeline**
+Wazuh catches the threat, n8n handles the response, Discord gets the alert. Brute-force blocking and file integrity monitoring, fully automated.
 
-### 📈 Observability
-- Telegraf → InfluxDB → Grafana stack
-- 10-second resolution metrics across all nodes
-- Dashboards used for real incident investigations
+**Zero-Trust Identity Platform**
+One login for everything. Authentik OIDC/SAML across 15+ services, 100% MFA, full audit trail.
 
-### 🧑‍🚀 Incident Forensics
-- Diagnosed a **silent Proxmox hard lockup** with *zero local logs*
-- Used **external telemetry only** to identify a PCIe / GPU VFIO root cause
-- Applied kernel-level mitigations and documented the full investigation
-
-### 🧠 AI / ML Infrastructure
-- GPU passthrough (VFIO / IOMMU)
-- Local LLM inference and RAG pipelines
-- Securely isolated AI workloads inside a broader platform
+**GPU AI Platform**
+RTX 4000 Ada passed through to a VM running Ollama. 50 tok/s on 70B models, 500+ document RAG pipeline, nothing leaves the house.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Operating Systems & Platforms
-- Linux (Debian, Ubuntu, Proxmox VE)
-- Windows, macOS
-- Virtualization & Containers
+**Infrastructure**
+Proxmox VE · UniFi · Tailscale · Nginx Proxy Manager · Docker
 
-### Infrastructure & Networking
-- Proxmox VE (clusters, VMs, LXCs)
-- VLANs, routing, firewalling
-- UniFi networking
-- VPN / zero-trust access
+**Security & Identity**
+Wazuh · Authentik · Vaultwarden · AdGuard
 
-### Security & Identity
-- Wazuh SIEM / XDR
-- Authentik (SSO, MFA, OIDC/SAML)
-- Vaultwarden
-- AdGuard DNS
+**Observability**
+Telegraf · InfluxDB · Grafana · Uptime Kuma
 
-### Observability & Automation
-- Telegraf, InfluxDB, Grafana
-- Uptime monitoring
-- Workflow automation (n8n-style pipelines)
+**Automation**
+n8n · Bash · Python
 
-### Development & Tooling
-- Git, GitHub, GitLab
-- Docker & Compose
-- Bash/scripting
-- Python (actively deepening)
+**AI/ML**
+Ollama · OpenWebUI · ComfyUI · AnythingLLM
+
+**Learning**
+Kubernetes · Terraform · Azure · Astro
 
 ---
 
-## 📚 Background
+## Background
 
-- **Information Technology Specialist** — Team Liquid  
-- **Senior IT Engineer** — Stagwell  
-- **Help Desk & Asset Lead** — Creative Artists Agency  
-- **Service Desk Lead** — Turner Tech  
-- **Field Service Technician** — RealPro Consulting  
+7+ years in enterprise IT at Team Liquid, Stagwell, and Creative Artists Agency.
+Tier III support, identity, endpoints, infrastructure — the full stack of things that break at 2am.
 
-**Education**
-- Full Stack Web Development — UCLA Extension  
-- Information Technology — ITT Technical Institute  
+Now building toward Systems / DevOps / Cloud Engineering.
 
 ---
 
-## 🎯 Where This Is Going
+## Currently Working On
 
-I’m intentionally moving from **“supporting systems” → “designing and owning platforms.”**  
-This GitHub document provides real evidence of that transition: architecture, configs, failures, fixes, and trade-offs.
-
-If you’re reviewing this for a **Cloud Engineer, Security Engineer, Platform, DevOps, or Systems role**, you’re looking at how I actually think and work — not just what I claim on a résumé.
-
----
-
-## 🔗 Connect With Me
-
-- 🌐 Website: https://tima.dev  
-- 💼 LinkedIn: https://linkedin.com/in/timanlemvo  
-- 🐦 Twitter/X: https://twitter.com/tee_ma3  
-- ✍🏽 Dev.to: https://dev.to/timanlemvo  
-- 📧 Email: timanlemvo@gmail.com  
+- Kubernetes (k3s) on Node-B
+- Terraform for VM provisioning
+- Proxmox Backup Server with offsite replication
+- Azure integration
 
 ---
 
-> _“Documentation is a form of operational empathy.”_  
-> I build systems that can be understood, monitored, and recovered — even when things break.
+[tima.dev](https://tima.dev) · [holocron-labs.tima.dev](https://holocron-labs.tima.dev) · [linkedin.com/in/timanlemvo](https://linkedin.com/in/timanlemvo)

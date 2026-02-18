@@ -1,7 +1,7 @@
 # Tima Nlemvo
 
 IT Engineer by day, homelab operator by night.
-I build, break, and document infrastructure — then write about it.
+I build, break, and document infrastructure. Then write about it.
 Based in Los Angeles, CA.
 
 ---
@@ -9,7 +9,7 @@ Based in Los Angeles, CA.
 ## The Alliance Fleet
 
 My homelab. 3 nodes, 25+ services, production-grade everything.
-Not a tutorial setup — this is where I actually learn.
+Not a tutorial setup. This is where I actually learn.
 
 | Node | Alias | Role |
 |------|-------|------|
@@ -57,7 +57,7 @@ Kubernetes · Terraform · Azure · Astro
 ## Background
 
 7+ years in enterprise IT at Team Liquid, Stagwell, and Creative Artists Agency.
-Tier III support, identity, endpoints, infrastructure — the full stack of things that break at 2am.
+Tier III support, identity, endpoints, infrastructure. The full stack of things that break at 2am.
 
 Now building toward Systems / DevOps / Cloud Engineering.
 
